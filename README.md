@@ -1,5 +1,5 @@
 ### Hi there 👋
-손팡 = 🖐에난 곰팡이
+손팡 = 🖐에 난 곰팡이
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thsvkd)](https://github.com/anuraghazra/github-readme-stats)
 
